@@ -174,8 +174,8 @@ const fallbackOverview = {
   ],
   studentProfile: {
     id: "COS-2026-1042",
-    name: "Aarav Raman",
-    program: "B.Tech Computer Science",
+    name: "Abhishek Kumar Gond",
+    program: "B.Tech Chemical Engineering",
     semester: "Semester 7",
     standing: "Good Standing",
     creditsCompleted: 136,
@@ -188,7 +188,7 @@ const fallbackOverview = {
       "Renew library book before Friday"
     ],
     credentials: [
-      { name: "Digital Student ID", status: "Verified", issuer: "Campus Atlas Identity" },
+      { name: "Digital Student ID", status: "Verified", issuer: "CampusOS AI Identity" },
       { name: "Semester Grade Report", status: "Issued", issuer: "Registrar" },
       { name: "Bonafide Certificate", status: "Ready", issuer: "Academic Office" }
     ]
@@ -471,7 +471,7 @@ function App() {
             <Compass size={24} />
           </div>
           <div>
-            <strong>Campus Atlas</strong>
+            <strong>CampusOS AI</strong>
             <span>Campus operating layer</span>
           </div>
         </div>
