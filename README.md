@@ -11,6 +11,41 @@ CampusOS AI is an AI PM case study exploring how I would define, design, evaluat
 
 ---
 
+## Table of Contents
+
+- [Origin](#origin)
+- [The Problem](#the-problem)
+- [Target Users](#target-users)
+- [Product Solution](#product-solution)
+  - [Phased Scope](#phased-scope)
+- [Core Product Features](#core-product-features)
+  - [1. AI Campus Copilot (Citation-Based)](#1-ai-campus-copilot-citation-based)
+  - [2. Confidence-Gated Escalation](#2-confidence-gated-escalation)
+  - [3. Offline Eval Harness (Shipped)](#3-offline-eval-harness-shipped)
+  - [4. Admin Intelligence Dashboard (Phase 2)](#4-admin-intelligence-dashboard-phase-2)
+  - [5. Student Command Center (Phase 2)](#5-student-command-center-phase-2)
+- [System Architecture](#system-architecture)
+  - [Current Prototype](#current-prototype)
+  - [Future-State Architecture](#future-state-architecture)
+- [Product Strategy & PM Thinking](#product-strategy--pm-thinking)
+  - [Problem Framing](#problem-framing)
+  - [Customer Wedge](#customer-wedge)
+  - [Prioritization](#prioritization)
+  - [GTM Strategy](#gtm-strategy)
+- [Evaluation Framework](#evaluation-framework)
+  - [Why evaluation is a PM responsibility](#why-evaluation-is-a-pm-responsibility)
+  - [Metrics](#metrics)
+  - [Eval Harness (Shipped)](#eval-harness-shipped)
+  - [Experiment Backlog](#experiment-backlog)
+- [Key Decisions & Tradeoffs](#key-decisions--tradeoffs)
+- [Tech Stack](#tech-stack)
+- [Repository Structure](#repository-structure)
+- [Run Locally](#run-locally)
+- [About](#about)
+- [License](#license)
+
+---
+
 ## Origin
 
 CampusOS AI started as a final-year engineering project (Student Link) that digitized student records, library services, canteen workflows, and basic campus administration. Moving into product management, I revisited it through a product strategy lens. The original system solved isolated tasks. The larger opportunity was a unified digital operating system for higher education — connecting student identity, campus services, AI assistance, and administrative intelligence into a single platform.
