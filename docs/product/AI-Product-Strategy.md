@@ -1,4 +1,4 @@
-# CampusOS AI AI Product Strategy
+# CampusOS AI Product Strategy
 
 ## PM Positioning
 
