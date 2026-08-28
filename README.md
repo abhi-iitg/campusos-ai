@@ -293,4 +293,10 @@ AI Product Management | Chemical Engineering @ IIT Guwahati
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 *CampusOS AI is an AI Product Management case study for a higher-education operating system — demonstrating how I would define, design, evaluate, and launch an AI-native product inside a real university environment.*
