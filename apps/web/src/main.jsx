@@ -44,7 +44,7 @@ import {
 } from "./copilotKnowledgeBase.js";
 
 const isLocalHost = ["localhost", "127.0.0.1"].includes(window.location.hostname);
-const API_URL = isLocalHost ? `${window.location.protocol}//${window.location.hostname}:4000/api/overview` : https://campusos-ai-v0ew.onrender.com;
+const API_URL = isLocalHost ? `${window.location.protocol}//${window.location.hostname}:4000/api/overview` : 'https://campusos-ai-v0ew.onrender.com';
 
 const iconMap = {
   "ai-campus-copilot": Brain,
