@@ -320,11 +320,12 @@ cd apps/api && node src/server.js
 ## About
 
 **Abhishek Kumar Gond**
-AI Product Management | Chemical Engineering @ IIT Guwahati
-
+Chemical Engineering @ IIT Guwahati
 
 **Email id: mr.abhishekaaa@gmail.com**
-[Portfolio]() · [LinkedIn](https://linkedin.com/in/abhishekkumargond) · [GitHub](https://github.com/abhi-iitg)
+- [Portfolio](https://abhishek-kg-portfolio-pied.vercel.app/) 
+- [LinkedIn](https://linkedin.com/in/abhishekkumargond) 
+- [GitHub](https://github.com/abhi-iitg)
 
 ---
 
