@@ -5,7 +5,7 @@
 CampusOS AI is an AI PM case study exploring how I would define, design, evaluate, and launch an AI-native campus operating system. It demonstrates product strategy, AI system design, evaluation frameworks, and go-to-market thinking — grounded in a working prototype with a real eval harness.
 
 <p align="center">
-  <a href="https://github.com/abhi-iitg/revenueiq-saas-business-intelligence.git"><img src="https://img.shields.io/badge/💻_GITHUB-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/abhi-iitg/campusos-ai.git"><img src="https://img.shields.io/badge/💻_GITHUB-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://abhishek-kg-portfolio-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/abhishekkumargond/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mr.abhishekaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
