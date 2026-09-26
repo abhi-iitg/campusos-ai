@@ -1,4 +1,4 @@
-# CampusOS AI -- AI-Native Campus Operating System
+# CampusOS AI — AI-Native Campus Operating System
 
 **AI Product Management Case Study | Product Strategy | AI System Design | Evaluation | Go-to-Market**
 
